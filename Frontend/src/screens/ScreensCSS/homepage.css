@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Audiowide|Candal|Cormorant|Fascinate+Inline|Galada|Oleo+Script|Pridi|Shadows+Into+Light+Two|Ubuntu+Mono|Ultra&display=swap");
+.homepage-slogan {
+  display: flex;
+  align-content: right;
+  flex-direction: column;
+}
+.homepage-music {
+  color: white;
+  font-family: "Galada", cursive;
+  font-size: 78px;
+  text-shadow: 2px 2px black;
+}
+
+.homepage-clever {
+  color: white;
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 26px;
+  text-shadow: 2px 2px black;
+  margin-top: -10%;
+}
+.carousel {
+  margin-top: 5px;
+}
+
+.homepage-oneliner {
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 16px;
+}

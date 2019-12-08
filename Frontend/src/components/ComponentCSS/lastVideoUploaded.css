@@ -1,0 +1,36 @@
+a:hover {
+    text-decoration: none;
+  }
+
+.figuresCard{
+  width: 100%;
+  height: 70vh
+}
+
+@media (max-width: 576px){
+  .figuresCard{
+    width: 100%;
+    height: 51vh;
+  }
+}
+
+@media (min-width: 577px){
+  .figuresCard{
+    width: 100%;
+    height: 65vh;
+  }
+}
+
+@media (min-width: 768px){
+  .figuresCard{
+    width: 100%;
+    height: 55vh;
+  }
+}
+
+@media (min-width: 992px){
+  .figuresCard{
+    width: 100%;
+    height: 70vh;
+  }
+}

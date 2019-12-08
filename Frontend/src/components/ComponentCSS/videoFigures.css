@@ -1,0 +1,42 @@
+#videoFigure{
+    margin-top: 3%;
+    text-align: center;
+}
+
+.statisticsTitle{
+    margin-bottom: 4px;
+    color: rgba(0, 0, 0, 0.45);
+    font-size: 14px;
+}
+
+.averageRating{
+    margin-top: 2%;
+}
+
+@media (max-width: 576px){
+    #videoFigure{
+        margin-top: 35%;
+    }
+    .figuresBox{
+        height: 18vh;
+    }
+}
+
+@media (min-width: 577px){
+    .figuresBox{
+        height: 21vh;
+    }
+}
+
+@media (min-width: 768px){
+    .figuresBox{
+        height: 24vh;
+    }
+}
+
+@media (min-width: 992px){
+    .figuresBox{
+        height: 23vh;
+    }
+}
+

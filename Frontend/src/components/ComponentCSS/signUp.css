@@ -1,0 +1,19 @@
+.signupHeader {
+  font-family: "Francois One", sans-serif;
+}
+
+.signupContent {
+  font-family: "Abril Fatface", cursive;
+}
+
+#btn-signup {
+  margin: auto;
+}
+
+.signupContainer {
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-align-content: center;
+  align-content: center;
+}

@@ -1,0 +1,40 @@
+.comment-player-wrapper {
+  position: relative;
+  padding-top: 56.25%;
+}
+ 
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.ant-card {
+  border-radius: 0 !important
+}
+
+.ant-result-content {
+  background-color: #fff !important;
+  text-align: center !important;
+}
+
+.videoRating {
+  display: inline-block !important;
+  /* align-items: center !important; */
+  /* padding-left: 150px !important; */
+}
+
+/* 
+.cardTotal:hover {
+  background-image: url('/images/total.jpg') !important;
+  background-size: cover !important;
+  background-clip: content-box !important;
+  transition: background-image 1s !important;
+} */
+
+/* .cardTotal {
+  background-image: url('/images/white.jpg') !important;
+  background-size: cover !important; 
+	transition: background-image 1s !important;
+} */

@@ -1,0 +1,7 @@
+.joblist th {
+    background-color: #ffd666!important;
+}
+
+.applicationDetails th, .pendingDetails th {
+    background-color: #ffd591 !important;
+}

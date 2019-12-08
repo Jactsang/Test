@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Abril+Fatface|Anton|Fascinate+Inline|Francois+One|Patua+One&display=swap");
+
+.login-container {
+  background-image: url(../../images/667753-PPH8UP-398.jpg);
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+.login-form {
+  margin: auto;
+  background-color: #efefef;
+  display: inline-block;
+  padding: 0.5rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.login-btn {
+  display: flex;
+  justify-content: center;
+}
